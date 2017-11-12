@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\nika-\documents\visual studio 2015\projects\solvingyourmatrix\solvingyourmatrix\source.cpp(134): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\nika-\documents\visual studio 2015\projects\solvingyourmatrix\solvingyourmatrix\source.cpp(131): warning C4101: result3: неиспользованная локальная переменная
+c:\users\nika-\documents\visual studio 2015\projects\solvingyourmatrix\solvingyourmatrix\source.cpp(131): warning C4101: result4: неиспользованная локальная переменная
+c:\users\nika-\documents\visual studio 2015\projects\solvingyourmatrix\solvingyourmatrix\source.cpp(131): warning C4101: result2: неиспользованная локальная переменная
+c:\users\nika-\documents\visual studio 2015\projects\solvingyourmatrix\solvingyourmatrix\source.cpp(131): warning C4101: result5: неиспользованная локальная переменная
+  SolvingYourMatrix.vcxproj -> C:\Users\nika-\Documents\Visual Studio 2015\Projects\SolvingYourMatrix\Debug\SolvingYourMatrix.exe
